@@ -2,5 +2,5 @@
 Proyecto desarrollado para la materia de Modelos y Simulación I, donde se debe evaluar el rendimiento de los estudiantes en las Pruebas Saber Pro. 
 
 # Miembros del grupo
-JONATHAN ANDRÉS GRANDA ORREGO, CC.1001450273, Ingeniería de Sistemas
-JONATHAN ANDRÉS GRANDA ORREGO, CC.1001450273, Ingeniería de Sistemas
+* JONATHAN ANDRÉS GRANDA ORREGO, CC.1001450273, Ingeniería de Sistemas
+* JUAN JOSE GARCIA ÁLVAREZ, CC.1152226318, Ingeniería de Sistemas
