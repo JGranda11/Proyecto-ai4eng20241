@@ -34,7 +34,7 @@ Se trabaja en Google Colab, estableciendo una conexión con Kaggle desde el ento
  ```
      #Crear el directorio desde la raiz
      !mkdir ~/.kaggle
-     #Realziar copias del directorio
+     #Realizar copias del directorio
      !cp kaggle.json ~/.kaggle/
      #Darle el permiso 600
      !chmod 600 ~/.kaggle/kaggle.json
