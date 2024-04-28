@@ -48,5 +48,5 @@ Se trabaja en Google Colab, estableciendo una conexión con Kaggle desde el ento
 
   # Videos
    ## Entrega #2
-   Enlace a la exposición del segundo informe [Entrega #2](http://www.kaggle.com/competitions/udea-ai4eng-20241)
+   Enlace a la exposición del segundo informe [Entrega #2](https://youtu.be/-HBYc1n7nGY)
 
