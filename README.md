@@ -45,3 +45,8 @@ Se trabaja en Google Colab, estableciendo una conexión con Kaggle desde el ento
    !unzip udea-ai4eng-20241
 ```
   Hasta este punto ya tendriamos los datos en el encarpetado del entorno de trabajo de Colab
+
+  # Videos
+   ## Entrega #2
+   Enlace a la exposición del segundo informe [Entrega #2](http://www.kaggle.com/competitions/udea-ai4eng-20241)
+
