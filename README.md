@@ -2,8 +2,8 @@
 Proyecto desarrollado para la materia de Modelos y Simulación I, donde se debe evaluar el rendimiento de los estudiantes en las Pruebas Saber Pro. 
 
 # Miembros del grupo
-* JONATHAN ANDRÉS GRANDA ORREGO, CC.1001450273, Ingeniería de Sistemas
-* JUAN JOSE GARCIA ÁLVAREZ, CC.1152226318, Ingeniería de Sistemas
+* JONATHAN ANDRÉS GRANDA ORREGO, CC.**********, Ingeniería de Sistemas
+* JUAN JOSE GARCIA ÁLVAREZ, CC.**********, Ingeniería de Sistemas
 
 # Dataset
 Los datos usados en el proyecto se toman de la competición [UDEA/ai4eng 20241 - Pruebas Saber Pro Colombia](http://www.kaggle.com/competitions/udea-ai4eng-20241)
